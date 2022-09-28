@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+    color: black;
+    background: #ffc8dd;
+}
+
+.header h1 {
+    padding-top: 2rem;
+    font-size: 2rem;
+}
+
+.header img {
+    margin-top: 2rem;
+    width: 40vw;
+    height: 60vh;
+}
+
+.paragrafo {
+    padding: 1rem;
+    font-size: 1.5rem;
+    height: 500px;
+    color: #686AAC;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #EDE9E0;
+}
+
+.paragrafo p {
+    width: 50%;
+
+}
